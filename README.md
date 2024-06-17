@@ -1,5 +1,5 @@
 # GeckoNum Benchmark
-GeckoNum is a benchmark for evaluation of numerical reasoning capabilities in text-to-image models.
+GeckoNum is a benchmark for evaluation of numerical reasoning capabilities in text-to-image generative models.
 This repository includes:
 
 * Text prompts that probe different aspects of numerical reasoning
