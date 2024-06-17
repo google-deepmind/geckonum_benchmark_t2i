@@ -2,8 +2,8 @@
 GeckoNum is a benchmark for evaluation of numerical reasoning capabilities in text-to-image generative models.
 This repository includes:
 
-* Text prompts that probe different aspects of numerical reasoning
-* Human annotations of images generated using the text prompts
+* Text prompts that probe different aspects of numerical reasoning.
+* Human annotations of images generated using the text prompts.
 
 Due to the large size, generated images are stored separately in a <a href="https://storage.googleapis.com/geckonum_t2i_benchmark/index.html" target="_blank">Google Cloud bucket</a>.
 
