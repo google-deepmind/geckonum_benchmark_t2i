@@ -18,7 +18,7 @@ Notes:
 ## Annotations
 Human annotations are stored as CSV files in the `./annotations/` directory. The names of the files are of the format: `{task}_{model}.csv`, where the task is one of `task_1`, `task_2`, `task_3` and `{model}` is one of the models.
 
-For more information about the content of annotation CSVs, refer to the corresponding `README` in that directory.
+For more information about the content of annotation CSVs, refer to the corresponding `README` in that directory. All annotations can be also downloaded as a single [zip file](./annotations/geckonum_annotations.zip) (<3 MB).
 
 ## Images
 Generated images are stored separately in a <a href="https://storage.googleapis.com/geckonum_t2i_benchmark/index.html" target="_blank">Google Cloud bucket</a>, with a separate directory for each of the models: `dalle_3, imagen_a, imagen_b, imagen_c, imagen_d, muse_a, muse_b`.
