@@ -9,7 +9,7 @@ This repository includes:
 
 Due to the large size, generated images are stored separately in a <a href="https://storage.googleapis.com/geckonum_t2i_benchmark/index.html" target="_blank">Google Cloud bucket</a>.
 
-For the detailed description of the dataset, see the [DATASET.md](DATABASE.md). Experimental details on how the data was collected and processed are described in the [paper](https://arxiv.org/pdf/2406.14774v1). For a subset of selected examples of prompts, generated images and associated annotations see [examples](examples.md).
+For the detailed description of the dataset, see the [DATASET.md](DATABASE.md). Experimental details on how the data was collected and processed are described in the [paper](https://arxiv.org/abs/2406.14774). For a subset of selected examples of prompts, generated images and associated annotations see [examples](examples.md).
 
 
 ## Citing this work
@@ -17,11 +17,11 @@ For the detailed description of the dataset, see the [DATASET.md](DATABASE.md). 
 
 ```latex
 @article{kajic2024evaluating,
-      title={Evaluating Numerical Reasoning in Text-to-Image Models},
-      author={Kaji{\'c}, Ivana and Wiles, Olivia and Albuquerque, Isabela and Bauer, Matthias and Wang, Su and Pont-Tuset, Jordi and Nematzadeh, Aida},
-      eprint={2406.14774},
-      archivePrefix={arXiv},
-      year={2024},
+  title={Evaluating Numerical Reasoning in Text-to-Image Models},
+  author={Kaji{\'c}, Ivana and Wiles, Olivia and Albuquerque, Isabela and Bauer, Matthias and Wang, Su and Pont-Tuset, Jordi and Nematzadeh, Aida},
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  year={2024}
 }
 ```
 
